@@ -1,5 +1,7 @@
 # Hooray for JupyterBook!
 
+Another test!
+
 Testing if this update will trigger an automatic update to the book!
 
 This is a small sample book to give you a feel for how book content is
