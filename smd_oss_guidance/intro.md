@@ -1,4 +1,4 @@
-# Welcome to your Jupyter Book
+# Hooray for JupyterBook!
 
 Testing if this update will trigger an automatic update to the book!
 
