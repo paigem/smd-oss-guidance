@@ -12,3 +12,7 @@ parts:
     - file: osdmp
     - file: data-management-sharing
     - file: software-management-sharing
+  - caption: Contribute to this book
+    chapters:
+    - file: contributing
+    - file: code-of-conduct
