@@ -7,3 +7,7 @@ parts:
   - caption: Overview
     chapters:
     - file: overview
+  - caption: Guidance
+    chapters:
+    - file: data-management-sharing
+    - file: osdmp
