@@ -9,5 +9,6 @@ parts:
     - file: overview
   - caption: Guidance
     chapters:
-    - file: data-management-sharing
     - file: osdmp
+    - file: data-management-sharing
+    - file: software-management-sharing
