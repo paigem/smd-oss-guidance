@@ -1,6 +1,6 @@
 # Hooray for JupyterBook!
 
-Another test!
+Another test! YAY!
 
 Testing if this update will trigger an automatic update to the book!
 
